@@ -1,9 +1,0 @@
-Things needed to make a game in this.
-^Keyboard input
-^mouse input
-
-^drawing.
-^drawing rotated images.
-^importing assets.
-
-(^)playing sounds.
