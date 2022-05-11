@@ -59,7 +59,11 @@ const graphics = {
 		ctx.restore()
 	}
 }
-
+// Audio -+-+-+-+-
+function playAudio (audio) {
+	audio.play()
+	audio.currentTime = 0;
+}
 // Time -+-+-+-+-
 const gameTime = {
 	lastFrameTime: -1,
